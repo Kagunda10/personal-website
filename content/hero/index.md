@@ -1,8 +1,8 @@
 ---
-title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
-buttonText: 'Get In Touch'
+title: ''
+name: 'Caleb Njiiri'
+subtitle: 'I am a Web Developer'
+buttonText: 'Contact Me'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
+I'm a web developer based in Nairobi, Kenya. I specialize in Backend Web Development, I love building exceptional web applications and I occassionally develop Slack and Discord Bots.

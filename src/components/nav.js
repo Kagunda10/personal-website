@@ -294,6 +294,20 @@ class Nav extends Component {
                 <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                   <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
                     <StyledResumeButton
+                      href="https://kagunda10.github.io"
+                      target="_blank"
+                      rel="nofollow noopener noreferrer">
+                      Blog
+                    </StyledResumeButton>
+                  </div>
+                </CSSTransition>
+              )}
+            </TransitionGroup>
+            <TransitionGroup component={null}>
+              {isMounted && (
+                <CSSTransition classNames={fadeDownClass} timeout={timeout}>
+                  <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
+                    <StyledResumeButton
                       href="/resume.pdf"
                       target="_blank"
                       rel="nofollow noopener noreferrer">
@@ -304,6 +318,7 @@ class Nav extends Component {
               )}
             </TransitionGroup>
           </StyledLink>
+          
         </StyledNav>
 
         <Menu menuOpen={menuOpen} toggleMenu={this.toggleMenu} />

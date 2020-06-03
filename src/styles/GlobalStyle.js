@@ -219,7 +219,8 @@ const GlobalStyle = createGlobalStyle`
   }
 
   #logo {
-    color: ${colors.green};
+    color: ${colors.navy};
+    opacity: 0.0;
   }
 
   .overline {
