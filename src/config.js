@@ -4,7 +4,7 @@ module.exports = {
     "I'm a web developer based in Nairobi, Kenya. I specialize in Backend Web Development, I love building exceptional web applications and I occassionally develop Slack and Discord Bots.",
   siteKeywords:
     'Caleb Njiiri, Caleb, Njiiri, kagunda10, software engineer, back-end engineer, web developer, python, freelance, freelancer, Nairobi',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://calebnjiiri.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
